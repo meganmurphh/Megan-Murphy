@@ -9,6 +9,8 @@ I most proud to say that I really enjoy the IT program here at Mizzou, and don't
 
 In conclusion, I still from time-to-time think about how crazy it is that I go here. It truly feels like a full circle moment for me. I'm grateful to be able to recieve such a good education and also have a good time doing it. 
 
-Next Page: [Work that I'm Most Proud of](page6.md)
+**Next Page:** [Work that I'm Most Proud of](page6.md)
+
+Last Page: [Moving to Mizzou](page4.md)
 
 [Back to Home](README.md)
