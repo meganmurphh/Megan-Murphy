@@ -11,3 +11,5 @@
 4. [Moving to Mizzou](page4.md)
 
 5. [My Time at Mizzou](page5.md)
+
+6. [Work that I'm Most Proud of](page6.md)
