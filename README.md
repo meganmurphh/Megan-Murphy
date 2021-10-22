@@ -1,7 +1,6 @@
+![image](https://www.funcarnival.com/mm5/graphics/mu_header.jpg)
 # Megan-Murphy
 ## My Journey to Mizzou
-
-![Mizzou Columns](mizzoucolumns1.jpg)
 
 ### Read about How I Chose Mizzou
 
