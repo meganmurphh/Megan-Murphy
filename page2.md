@@ -12,7 +12,7 @@ Interested, I clicked to learn more. *Could I really do this?* I thought to myse
 
 
 
-Next Page: [Committing to Mizzou](page3.md)
+**Next Page:** [Committing to Mizzou](page3.md)
 
 Last Page: [It Started at a Young Age](page1.md)
 
