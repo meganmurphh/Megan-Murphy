@@ -2,7 +2,7 @@
 ## My Journey to Mizzou
 ### Read about How I Chose Mizzou
 
-![Mizzou Columns](mizzoucolumns1.png)
+![Mizzou Columns](mizzoucolumns1.jpg)
 
 1. [It Started at a Young Age](page1.md)
 
