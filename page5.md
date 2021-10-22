@@ -7,3 +7,5 @@ I'm learning a lot about myself as a student, especially during midterm time. My
 I most proud to say that I really enjoy the IT program here at Mizzou, and don't regret my random decision to try out what the program has to offer. Coding has been suprisingly easy enough for me to learn, and I'm excited and eager to get into the more advanced stuff.
 
 In conclusion, I still from time-to-time think about how crazy it is that I go here. It truly feels like a full circle moment for me. I'm grateful to be able to recieve such a good education and also have a good time doing it. 
+
+[Back to Home](README.md)
