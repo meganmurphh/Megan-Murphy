@@ -1,4 +1,4 @@
-![image](mizzoucolumns1.png)
+![image](mizzoucolumns1.jpg)
 # My Time at Mizzou
 
 Honestly speaking, there have been more downs than ups in the 2 months that I've been here, but I still enjoy college life. It's definitely a hard adjustment, but nobody said it was easy.
