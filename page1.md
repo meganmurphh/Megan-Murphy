@@ -5,4 +5,5 @@ You could say that my facination with Mizzou originated within my family. Since 
 When it came time to start thinking about colleges, I knew that there was only one to apply to. 
 
 [Go Back to Home](READme.md)
+
 Next Page: [Deciding What to Do](page2.md)
