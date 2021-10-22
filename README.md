@@ -1,8 +1,9 @@
 # Megan-Murphy
 ## My Journey to Mizzou
-### Read about How I Chose Mizzou
 
 ![Mizzou Columns](mizzoucolumns1.jpg)
+
+### Read about How I Chose Mizzou
 
 1. [It Started at a Young Age](page1.md)
 
