@@ -1,7 +1,7 @@
 ![image](https://www.funcarnival.com/mm5/graphics/mu_header.jpg)
-# My Journey to Mizzou
+## My Journey to Mizzou
 
-##Read about How I Chose Mizzou
+# Read about How I Chose Mizzou
 
 1. [It Started at a Young Age](page1.md)
 
