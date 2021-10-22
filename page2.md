@@ -8,6 +8,6 @@ I would scroll through career listing websites for hours and took numerous caree
 
 Interested, I clicked to learn more. *Could I really do this?* I thought to myself as I read the job description. As I kept reading, it seemed to get more interesting, especially as my eyes caught the listed salary. *And a good salary?!* I was hooked. 
 
-Next Page:[Committing to Mizzou](page3.md)
+Next Page: [Committing to Mizzou](page3.md)
 
 [Go Back to Home](README.md)
