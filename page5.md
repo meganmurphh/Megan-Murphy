@@ -12,7 +12,7 @@ In conclusion, I still from time-to-time think about how crazy it is that I go h
   <img src= "miz1.png" width = "300" height = "400" </img>
   <img src= "miz3.jpg" width = "305" height = "400" </img>
   <img src= "miz2.JPG" width = "250" height = "400" </img>
-  </div>
+</div>
 
 Next Page: [Work that I'm Most Proud of](page6.md)
 
