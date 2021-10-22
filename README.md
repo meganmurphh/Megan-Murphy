@@ -5,3 +5,5 @@
 1. [It Started at a Young Age](page1.md)
 
 2. [Deciding What to Do](page2.md)
+
+3. [Committing to Mizzou](page3.md)
