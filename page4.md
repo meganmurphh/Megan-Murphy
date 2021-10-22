@@ -10,6 +10,6 @@ After I had found a roommate, the next thing to do was look for furniture. I was
 
 When move-in day had finally arrived, I found myself ill-prepared, and panic mode set in when I realized that really only had half of what I needed. I was mad at myself for not taking my move seriously.
 
-Next Page:
+Next Page: [My Time at Mizzou](page5.md)
 
 [Back to Home](README.md)
