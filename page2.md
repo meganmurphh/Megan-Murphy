@@ -8,7 +8,7 @@ I would scroll through career listing websites for hours and took numerous caree
 
 Interested, I clicked to learn more. *Could I really do this?* I thought to myself as I read the [job description.](https://www.herzing.edu/description/computer-programmer) As I kept reading, it seemed to get more interesting, especially as my eyes caught the listed salary. *And a good salary?* I was hooked. I searched Mizzou's list of majors to find computer science. Sure enough, I had finally found something I could see myself doing. 
 
-![image](https://engineering.missouri.edu/wp-content/uploads/2020/06/CollegeofEngineeringLogo-300x133.jpg)
+![image](https://assets.onthehub.com/attachments/15/e9adeca3-0c29-de11-a497-0030485a8df0/823c98af-04d1-4730-87ab-ac87822c5196.jpg)
 
 
 
