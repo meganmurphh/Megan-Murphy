@@ -13,3 +13,9 @@
 5. [My Time at Mizzou](page5.md)
 
 6. [Work that I'm Most Proud of](page6.md)
+
+![Mizzou Columns](mizzoucolumns.png)
+
+        
+     
+            
