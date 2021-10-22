@@ -12,6 +12,8 @@ When move-in day had finally arrived, I found myself ill-prepared, and panic mod
 
 ![image](https://cdn.mydorm.com/images/6d3bcf49-92e6-4b0d-8dab-443cadb805f7.png)
 
-Next Page: [My Time at Mizzou](page5.md)
+**Next Page:** [My Time at Mizzou](page5.md)
+
+Last Page: [Committing to Mizzou](page3.md)
 
 [Back to Home](README.md)
