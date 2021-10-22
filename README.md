@@ -7,3 +7,5 @@
 2. [Deciding What to Do](page2.md)
 
 3. [Committing to Mizzou](page3.md)
+
+4. [Moving to Mizzou](page4.md)
