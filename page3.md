@@ -6,8 +6,6 @@ Come senior year, it was time to submit my college applications. With a good ACT
 
 For weeks after I submitted my application, I would constantly get the question, "So what **schools** did you apply to?" Accompanied by a disapproving, or confusing look when I answered with just the one. "That's it?" They would say. How could I waste my time applying to other schools when there was only one school that I *truly* wanted to be at?
 
-![image](https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Missouri_Tigers_logo.svg/1200px-Missouri_Tigers_logo.svg.png)
-
 Next Page: [Moving to Mizzou](page4.md)
 
 [Back to Home](README.md)
