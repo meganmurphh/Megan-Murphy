@@ -9,3 +9,5 @@
 3. [Committing to Mizzou](page3.md)
 
 4. [Moving to Mizzou](page4.md)
+
+5. [My Time at Mizzou](page5.md)
