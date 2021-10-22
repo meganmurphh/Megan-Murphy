@@ -1,6 +1,6 @@
 # Work that I'm Most Proud of
 
-I still amaze myself at what I am able to do with a computer, especially since my mind was set on the fact that IT was going to be too hard for me. The following block of code is from a python project that reads a `.txt` file and generates data from the file.
+It still amazes me that I am able to do so many things with a computer, especially since my mind was set on the fact that IT was going to be too hard for me. The following block of code is from a python project that I submitted for my IT 1040 class. I'm proud of this code because the project was hard for me, and I was able to overcome the obstacles and submit a working program that reads a `.txt` file and generates data from the file.
 ```
 def calc_sum(filepath, fp):
     sum = 0
