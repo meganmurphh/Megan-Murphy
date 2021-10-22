@@ -1,7 +1,7 @@
 # Work that I'm Most Proud of
 
 I still amaze myself at what I am able to do with a computer, especially since my mind was set on the fact that IT was going to be too hard for me. The following block of code is from a python project that I have submitted for my IT 1040 class:
-
+```
 def calc_sum(filepath, fp):
     sum = 0
     for n in fp:
@@ -63,4 +63,4 @@ def main():
         except Exception as error:
             print(error)
 main()
-            
+```
