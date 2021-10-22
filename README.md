@@ -2,6 +2,8 @@
 ## My Journey to Mizzou
 ### Read about How I Chose Mizzou
 
+![Mizzou Columns](mizzoucolumns.png)
+
 1. [It Started at a Young Age](page1.md)
 
 2. [Deciding What to Do](page2.md)
@@ -14,7 +16,6 @@
 
 6. [Work that I'm Most Proud of](page6.md)
 
-![Mizzou Columns](mizzoucolumns.png)
 
         
      
